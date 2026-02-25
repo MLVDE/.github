@@ -1,18 +1,20 @@
-# MLVDE
+# ML Virtual Desktop Environment
 
-## About MLVDE
+<p style="text-align: center;"><img src="https://raw.githubusercontent.com/MLVDE/.github/refs/heads/main/assets/logo/ML_logo-transparent.png" ALT="'ML' (Virtual Desktop Environment) logo" width=400" /></p>
 
 [MLVDE](https://github.com/MLVDE) is a free, open-source, cross-platform
-[virtual desktop](https://en.wikipedia.org/wiki/Virtual_desktop) [desktop
+[virtual](https://en.wikipedia.org/wiki/Virtual_desktop) [desktop
 environment](https://en.wikipedia.org/wiki/Desktop_environment) for the [X
 window system](https://en.wikipedia.org/wiki/X_Window_System) built around
 the [MLVWM](https://github.com/morgant/mlvwm) [window
-manager](https://en.wikipedia.org/wiki/Window_manager). _It is a study of
-the early history and evolution of the [graphical user interfaces
-(GUI)](https://en.wikipedia.org/wiki/Graphical_user_interfaces) through the
-lens of [Apple Inc.](https://www.apple.com/)'s (née [Apple Computer,
+manager](https://en.wikipedia.org/wiki/Window_manager).
+
+_It is a study of the early history and evolution of the [graphical user
+interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interfaces)
+through the lens of [Apple Inc.](https://www.apple.com/)'s (née [Apple Computer,
 Inc.](https://en.wikipedia.org/wiki/Apple_Inc.#History)) classic [Mac
-OS](https://en.wikipedia.org/wiki/Classic_Mac_OS)._
+OS](https://en.wikipedia.org/wiki/Classic_Mac_OS), which helped popularize
+GUIs and the desktop metaphor._
 
 ## Imitation is the Sincerest Form of Flattery
 
