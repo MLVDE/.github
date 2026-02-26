@@ -1,6 +1,6 @@
 # ML Virtual Desktop Environment
 
-<p align="center"><img src="https://raw.githubusercontent.com/MLVDE/.github/refs/heads/main/assets/logo/ML_logo-transparent.png" ALT="'ML' (Virtual Desktop Environment) logo" width="400" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MLVDE/.github/refs/heads/main/assets/logo/ML_logo-transparent-256x256.png" ALT="'ML' (Virtual Desktop Environment) logo" /></p>
 
 [MLVDE](https://github.com/MLVDE) is a free, open-source, cross-platform
 [virtual](https://en.wikipedia.org/wiki/Virtual_desktop) [desktop
